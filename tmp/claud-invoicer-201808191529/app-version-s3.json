@@ -1,0 +1,14 @@
+{
+    "ApplicationVersion": {
+        "ApplicationVersionArn": "arn:aws:elasticbeanstalk:us-west-2:381145069197:applicationversion/claud-invoicer-201808191529/invoicer-api",
+        "ApplicationName": "claud-invoicer-201808191529",
+        "VersionLabel": "invoicer-api",
+        "SourceBundle": {
+            "S3Bucket": "claud-invoicer-201808191529",
+            "S3Key": "app-version.json"
+        },
+        "DateCreated": "2018-08-19T14:34:27.837Z",
+        "DateUpdated": "2018-08-19T14:34:27.837Z",
+        "Status": "UNPROCESSED"
+    }
+}

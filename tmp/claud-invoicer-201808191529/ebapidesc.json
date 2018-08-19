@@ -1,0 +1,27 @@
+{
+    "EnvironmentResources": {
+        "EnvironmentName": "claud-invoicer-201808191529-invoicer-api",
+        "AutoScalingGroups": [
+            {
+                "Name": "awseb-e-fzuxzpqxqc-stack-AWSEBAutoScalingGroup-1LHX2PNA7DLZX"
+            }
+        ],
+        "Instances": [
+            {
+                "Id": "i-0e604407f6f3469b3"
+            }
+        ],
+        "LaunchConfigurations": [
+            {
+                "Name": "awseb-e-fzuxzpqxqc-stack-AWSEBAutoScalingLaunchConfiguration-L3TARYZRW92B"
+            }
+        ],
+        "LoadBalancers": [
+            {
+                "Name": "awseb-e-f-AWSEBLoa-KTHYSUTJ7RJU"
+            }
+        ],
+        "Triggers": [],
+        "Queues": []
+    }
+}

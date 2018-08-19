@@ -1,0 +1,24 @@
+{
+    "Application": {
+        "ApplicationArn": "arn:aws:elasticbeanstalk:us-west-2:381145069197:application/claud-invoicer-201808191529",
+        "ApplicationName": "claud-invoicer-201808191529",
+        "Description": "Invoicer  201808191529",
+        "DateCreated": "2018-08-19T14:33:26.867Z",
+        "DateUpdated": "2018-08-19T14:33:26.867Z",
+        "ConfigurationTemplates": [],
+        "ResourceLifecycleConfig": {
+            "VersionLifecycleConfig": {
+                "MaxCountRule": {
+                    "Enabled": false,
+                    "MaxCount": 200,
+                    "DeleteSourceFromS3": false
+                },
+                "MaxAgeRule": {
+                    "Enabled": false,
+                    "MaxAgeInDays": 180,
+                    "DeleteSourceFromS3": false
+                }
+            }
+        }
+    }
+}

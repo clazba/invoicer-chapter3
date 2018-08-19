@@ -1,0 +1,18 @@
+{
+    "EnvironmentName": "claud-invoicer-201808191529-invoicer-api",
+    "EnvironmentId": "e-fzuxzpqxqc",
+    "ApplicationName": "claud-invoicer-201808191529",
+    "SolutionStackName": "64bit Amazon Linux 2018.03 v2.12.1 running Docker 18.03.1-ce",
+    "PlatformArn": "arn:aws:elasticbeanstalk:us-west-2::platform/Docker running on 64bit Amazon Linux/2.12.1",
+    "Description": "Invoicer API environment",
+    "DateCreated": "2018-08-19T14:33:32.212Z",
+    "DateUpdated": "2018-08-19T14:33:32.212Z",
+    "Status": "Launching",
+    "Health": "Grey",
+    "Tier": {
+        "Name": "WebServer",
+        "Type": "Standard",
+        "Version": "1.0"
+    },
+    "EnvironmentArn": "arn:aws:elasticbeanstalk:us-west-2:381145069197:environment/claud-invoicer-201808191529/claud-invoicer-201808191529-invoicer-api"
+}
